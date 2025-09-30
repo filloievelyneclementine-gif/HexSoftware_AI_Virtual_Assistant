@@ -1,5 +1,3 @@
-# HexSoftware_AI_Virtual_Assistant
-
 AI Virtual Assistant – Python Project
 
 YouTube Demo: [Click here to watch](https://youtu.be/zwyqr_5IXUE?si=chrmQ2vHDqNGBDRs)
